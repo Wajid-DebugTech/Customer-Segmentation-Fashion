@@ -1,1 +1,1 @@
-
+Customer segmentation is the process of sorting data into various groups based on a range of KPI's. Here data clustering was carried out from SKLEARN library using K-MEANS clustering and a 3-d plot was plotted to get a better idea of the groups formed. Refer to the word file for details. 
